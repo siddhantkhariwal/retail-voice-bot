@@ -8,3 +8,4 @@ vertexai==1.63.0
 pdfplumber
 scikit-learn
 pyttsx3
+google-cloud-texttospeech
